@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//This is the comment made by coder
+//Leader resolved the conflict to merge coder-branch
 public class Calculator {
 
     public static void main(String[] args) {
